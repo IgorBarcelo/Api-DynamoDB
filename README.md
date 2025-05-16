@@ -17,7 +17,7 @@ Este projeto é um desafio técnico para vaga de Backend Developer. O objetivo �
 
 ## 📁 Estrutura do Projeto
 
-
+---
 src/
 ├── controllers/
 ├── routes/
@@ -25,7 +25,7 @@ src/
 ├── models/
 ├── database/
 └── index.ts
-
+---
 
 ##  ⚙️ Funcionalidades
 
